@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-aliyun",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Aliyun deployer plugin of Hexo.",
   "repository": {
     "type": "git",
