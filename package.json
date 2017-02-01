@@ -1,13 +1,24 @@
 {
   "name": "hexo-deployer-aliyun",
   "version": "0.1.0",
-  "description": "",
-  
+  "description": "Aliyun deployer plugin of Hexo.",
   "repository": {
     "type": "git",
     "url": "https://github.com/yedaodao/hexo-deployer-aliyun.git"
   },
-  
+  "homepage": "http://blog.yedaodao.com/",
+  "keywords": [
+    "hexo",
+    "aliyun",
+    "deploy",
+    "deployer"
+  ],
+  "main": "index",
   "author": "yedaodao",
-  "license": "GNU"
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^4.8.0",
+    "bluebird": "^3.4.7",
+    "hexo-fs": "^0.1.6"
+  }
 }
