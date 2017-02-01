@@ -1,2 +1,2 @@
-# hexo-deployer-s3
-Upload hexo resource to alien
+# hexo-deployer-aliyun
+Upload hexo resource to aliyun
