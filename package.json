@@ -1,0 +1,13 @@
+{
+  "name": "hexo-deployer-aliyun",
+  "version": "0.1.0",
+  "description": "",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedaodao/hexo-deployer-aliyun.git"
+  },
+  
+  "author": "yedaodao",
+  "license": "GNU"
+}
